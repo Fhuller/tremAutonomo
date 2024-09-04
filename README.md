@@ -1,4 +1,4 @@
 # tremAutonomo
 Equipe:
 
-Felipe Beppler Huller e Filipe Richter
+Agos Dalcin, Felipe Beppler Huller e Filipe Richter
